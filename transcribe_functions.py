@@ -8,7 +8,7 @@ def get_from_YouTube():
     link = input("Give the youtube link: ")
     cmd= ['youtube-dl', '-o', '%(title)s.%(ext)s', '-f', '18', link]
     res = subprocess.call(cmd)
-    for path in pathlib.Path('/Users/J/Desktop/GoogleTranscribe').iterdir():
+    for path in pathlib.Path('/path/to/file/').iterdir():
         if path.is_file():
             if path.suffix == '.mp4':
                 old_name = path.stem #original filename
