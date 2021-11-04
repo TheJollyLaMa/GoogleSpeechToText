@@ -1,10 +1,3 @@
-#dedications:
-#to my parents, who taught me to listen for what others really wanted and to bring them what they really needed
-#to the sages who have recognized the goodness they saw before them since time immemorial
-#to google who knows more than any of us
-#and to Raghunath and Kaustubah for sharing their thoughts, knowledge, and wisdom for the glorification of Krsna's pastimes - the effect of which shall be our edification
-#Hare Krsna Hare Krsna Krsan Krsna Hare Hare Hare Rama Hare Rama Rama Rama Hare Hare
-# Thank You - this is just so cool to play with such powerful tools
 import subprocess
 import json
 import transcribe_functions as file_handler
